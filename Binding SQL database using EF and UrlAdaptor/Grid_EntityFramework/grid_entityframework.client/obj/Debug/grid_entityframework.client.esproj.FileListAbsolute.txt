@@ -1,0 +1,2 @@
+D:\Component\EJ2\Samples\Vue\DataBase_Samples\Grid_EntityFramework\grid_entityframework.client\obj\Debug\grid_entityframework.client.esproj.CoreCompileInputs.cache
+D:\Component\EJ2\GitHub-Repo\connecting-databases-to-vue-grid\Binding SQL database using EF and UrlAdaptor\Grid_EntityFramework\grid_entityframework.client\obj\Debug\grid_entityframework.client.esproj.CoreCompileInputs.cache

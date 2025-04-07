@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:60164",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_EntityFramework\\Grid_EntityFramework.Server\\..\\grid_entityframework.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

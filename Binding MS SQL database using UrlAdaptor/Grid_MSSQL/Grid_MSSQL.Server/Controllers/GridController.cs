@@ -1,7 +1,4 @@
-﻿
-
-
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
 using System.Data;
 using Syncfusion.EJ2.Base;
@@ -9,17 +6,16 @@ using Microsoft.Data.SqlClient;
 
 namespace Grid_MSSQL.Server.Controllers
 {
-
     [ApiController]
     public class GridController : ControllerBase
     {
-        string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Component\EJ2\Samples\Vue\DataBase_Samples\Grid_MSSQL\Grid_MSSQL.Server\App_Data\NORTHWIND.MDF;Integrated Security=True;Connect Timeout=30";
+        string ConnectionString = @"<Enter a valid connection string>";
 
         /// <summary>
         /// Processes the DataManager request to perform searching, filtering, sorting, and paging operations.
         /// </summary>
         /// <param name="DataManagerRequest">Contains the details of the data operation requested.</param>
-        /// <returns>Returns a JSON object with the filtered, sorted, and paginated data along with the total record count.</returns>    
+        /// <returns>Returns a JSON object with the filtered, sorted, and paginated data along with the total record count.</returns>
         [HttpPost]
         [Route("api/[controller]")]
         public object Post([FromBody] DataManagerRequest DataManagerRequest)
@@ -73,7 +69,7 @@ namespace Grid_MSSQL.Server.Controllers
 
         /// <summary>
         /// Retrieves the order data from the database.
-        /// </summary>
+        /// </summary>    
         /// <returns>Returns a list of orders fetched from the database.</returns>
         [HttpGet]
         [Route("api/[controller]")]
@@ -88,7 +84,7 @@ namespace Grid_MSSQL.Server.Controllers
             DataAdapter.Fill(DataTable);
             sqlConnection.Close();
 
-            // Map data to a list. 
+            // Map data to a list.
             List<Orders> dataSource = (from DataRow Data in DataTable.Rows
                 select new Orders()
                 {
@@ -101,6 +97,7 @@ namespace Grid_MSSQL.Server.Controllers
             ).ToList();
             return dataSource;
         }
+
         /// <summary>
         /// Inserts a new data item into the data collection.
         /// </summary>
@@ -113,9 +110,11 @@ namespace Grid_MSSQL.Server.Controllers
             string Query = $"Insert into Orders(CustomerID,Freight,ShipCity,ShipCountry,EmployeeID) values('{value.value.CustomerID}','{value.value.Freight}','{value.value.ShipCity}','{value.value.ShipCountry}','{value.value.EmployeeID}')";
             SqlConnection SqlConnection = new SqlConnection(ConnectionString);
             SqlConnection.Open();
-            //Execute the SQL Command.
+
+            // Execute the SQL Command.
             SqlCommand SqlCommand = new SqlCommand(Query, SqlConnection);
-            //Execute this code to reflect the changes into the database.
+
+            // Execute this code to reflect the changes into the database.
             SqlCommand.ExecuteNonQuery();
             SqlConnection.Close();
 
@@ -130,19 +129,19 @@ namespace Grid_MSSQL.Server.Controllers
         [Route("api/[controller]/Update")]
         public void Update([FromBody] CRUDModel<Orders> value)
         {
-            //Create query to update the changes into the database by accessing its properties.
+            // Create query to update the changes into the database by accessing its properties.
             string Query = $"Update Orders set CustomerID='{value.value.CustomerID}', Freight='{value.value.Freight}',EmployeeID='{value.value.EmployeeID}',ShipCity='{value.value.ShipCity}' where OrderID='{value.value.OrderID}'";
             SqlConnection SqlConnection = new SqlConnection(ConnectionString);
             SqlConnection.Open();
 
-            //Execute the SQL command.
+            // Execute the SQL command.
             SqlCommand SqlCommand = new SqlCommand(Query, SqlConnection);
 
-            //Execute this code to reflect the changes into the database.
+            // Execute this code to reflect the changes into the database.
             SqlCommand.ExecuteNonQuery();
             SqlConnection.Close();
 
-            //Add custom logic here if needed and remove above method.
+            // Add custom logic here if needed and remove above method.
         }
 
         /// <summary>
@@ -154,19 +153,19 @@ namespace Grid_MSSQL.Server.Controllers
         [Route("api/[controller]/Remove")]
         public void Remove([FromBody] CRUDModel<Orders> value)
         {
-            //Create query to remove the specific from database by passing the primary key column value.
+            // Create query to remove the specific from database by passing the primary key column value.
             string Query = $"Delete from Orders where OrderID={value.key}";
             SqlConnection SqlConnection = new SqlConnection(ConnectionString);
             SqlConnection.Open();
 
-            //Execute the SQL command.
+            // Execute the SQL command.
             SqlCommand SqlCommand = new SqlCommand(Query, SqlConnection);
 
-            //Execute this code to reflect the changes into the database.
+            // Execute this code to reflect the changes into the database.
             SqlCommand.ExecuteNonQuery();
             SqlConnection.Close();
 
-            //Add custom logic here if needed and remove above method.
+            // Add custom logic here if needed and remove above method.
         }
 
         /// <summary>
@@ -178,62 +177,62 @@ namespace Grid_MSSQL.Server.Controllers
         [Route("api/[controller]/BatchUpdate")]
         public IActionResult BatchUpdate([FromBody] CRUDModel<Orders> value)
         {
-            //TODO: Enter the connectionstring of database.
+            // TODO: Enter the connectionstring of database.
             if (value.changed != null && value.changed.Count > 0)
             {
                 foreach (Orders Record in (IEnumerable<Orders>)value.changed)
                 {
-                    //Create query to update the changes into the database by accessing its properties.
+                    // Create query to update the changes into the database by accessing its properties.
                     string Query = $"Update Orders set CustomerID='{Record.CustomerID}', Freight='{Record.Freight}',EmployeeID='{Record.EmployeeID}',ShipCity='{Record.ShipCity}' where OrderID='{Record.OrderID}'";
                     SqlConnection SqlConnection = new SqlConnection(ConnectionString);
                     SqlConnection.Open();
 
-                    //Execute the SQL command.
+                    // Execute the SQL command.
                     SqlCommand SqlCommand = new SqlCommand(Query, SqlConnection);
 
-                    //Execute this code to reflect the changes into the database.
+                    // Execute this code to reflect the changes into the database.
                     SqlCommand.ExecuteNonQuery();
                     SqlConnection.Close();
 
-                    //Add custom logic here if needed and remove above method.
+                    // Add custom logic here if needed and remove above method.
                 }
             }
             if (value.added != null)
             {
                 foreach (Orders Record in (IEnumerable<Orders>)value.added)
                 {
-                    //Create query to insert the specific into the database by accessing its properties.
+                    // Create query to insert the specific into the database by accessing its properties.
                     string Query = $"Insert into Orders(CustomerID,Freight,ShipCity,EmployeeID) values('{Record.CustomerID}','{Record.Freight}','{Record.ShipCity}','{Record.EmployeeID}')";
                     SqlConnection SqlConnection = new SqlConnection(ConnectionString);
                     SqlConnection.Open();
 
-                    //Execute the SQL command.
+                    // Execute the SQL command.
                     SqlCommand SqlCommand = new SqlCommand(Query, SqlConnection);
 
-                    //Execute this code to reflect the changes into the database.
+                    // Execute this code to reflect the changes into the database.
                     SqlCommand.ExecuteNonQuery();
                     SqlConnection.Close();
 
-                    //Add custom logic here if needed and remove above method.
+                    // Add custom logic here if needed and remove above method.
                 }
             }
             if (value.deleted != null)
             {
                 foreach (Orders Record in (IEnumerable<Orders>)value.deleted)
                 {
-                    //Create query to remove the specific from database by passing the primary key column value.
+                    // Create query to remove the specific from database by passing the primary key column value.
                     string Query = $"Delete from Orders where OrderID={Record.OrderID}";
                     SqlConnection SqlConnection = new SqlConnection(ConnectionString);
                     SqlConnection.Open();
 
-                    //Execute the SQL command.
+                    // Execute the SQL command.
                     SqlCommand SqlCommand = new SqlCommand(Query, SqlConnection);
 
-                    //Execute this code to reflect the changes into the database.
+                    // Execute this code to reflect the changes into the database.
                     SqlCommand.ExecuteNonQuery();
                     SqlConnection.Close();
 
-                    //Add custom logic here if needed and remove above method.
+                    // Add custom logic here if needed and remove above method.
                 }
             }
             return new JsonResult(value);

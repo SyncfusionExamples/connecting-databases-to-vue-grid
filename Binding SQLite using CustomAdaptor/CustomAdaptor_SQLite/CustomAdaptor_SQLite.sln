@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "customadaptor_sqlite.client", "customadaptor_sqlite.client\customadaptor_sqlite.client.esproj", "{17B73B58-008A-0A64-5125-D466ECC88714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAdaptor_SQLite.Server", "CustomAdaptor_SQLite.Server\CustomAdaptor_SQLite.Server.csproj", "{35A63DCB-4B28-4738-B77F-900E8470994E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B73B58-008A-0A64-5125-D466ECC88714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B73B58-008A-0A64-5125-D466ECC88714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B73B58-008A-0A64-5125-D466ECC88714}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{17B73B58-008A-0A64-5125-D466ECC88714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B73B58-008A-0A64-5125-D466ECC88714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B73B58-008A-0A64-5125-D466ECC88714}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{35A63DCB-4B28-4738-B77F-900E8470994E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A63DCB-4B28-4738-B77F-900E8470994E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A63DCB-4B28-4738-B77F-900E8470994E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A63DCB-4B28-4738-B77F-900E8470994E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFCE1A92-351E-4EBE-94C2-9A68835CDEAF}
+	EndGlobalSection
+EndGlobal

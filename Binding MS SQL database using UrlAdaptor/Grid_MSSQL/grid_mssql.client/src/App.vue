@@ -1,7 +1,6 @@
 
 <template>
-  <div style="margin-top:20px">
-    <h2>Microsoft SQL Url Adaptor Grid</h2>
+  <div>
     <ejs-grid :dataSource='data' :allowPaging='true' :allowGrouping='true' :allowFiltering='true' :allowSorting='true' :editSettings='editSettings' :toolbar='toolbar' height="348">
       <e-columns>
         <e-column field='OrderID' headerText='Order ID' width='100' textAlign='Right' isPrimaryKey='true' isIdentity='true'></e-column>
@@ -27,11 +26,12 @@
     data() {
       return {
         data: new DataManager({
-          url: 'https://localhost:7258/api/Grid',
-          insertUrl: 'https://localhost:7258/api/Grid/Insert',
-          updateUrl: 'https://localhost:7258/api/Grid/Update',
-          removeUrl: 'https://localhost:7258/api/Grid/Remove',
-          batchUrl: 'https://localhost:7258/api/Grid/BatchUpdate',// Perform CRUD action using batchURL when enabling batch editing.
+          url: 'https://localhost:xxxx/api/Grid',
+          insertUrl: 'https://localhost:xxxx/api/Grid/Insert',
+          updateUrl: 'https://localhost:xxxx/api/Grid/Update',
+          removeUrl: 'https://localhost:xxxx/api/Grid/Remove',
+          // Enable batch URL when batch editing is enabled.
+          //batchUrl: 'https://localhost:xxxx/api/Grid/BatchUpdate',
           adaptor: new UrlAdaptor(),
         }),
         editSettings: { allowAdding: true, allowDeleting: true, allowEditing: true },

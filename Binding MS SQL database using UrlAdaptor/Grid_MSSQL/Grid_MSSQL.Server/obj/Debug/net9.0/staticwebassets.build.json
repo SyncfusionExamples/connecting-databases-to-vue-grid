@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "btaWMu+lQcBlHI7ATUiJA32fv+0VMyGeEFKUhlUyz64=",
+  "Hash": "6JlA0c1RurnVjpGF1Mp0bai+fOlOm39lGK5kqudBtQo=",
   "Source": "Grid_MSSQL.Server",
   "BasePath": "_content/Grid_MSSQL.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\grid_mssql.client\\grid_mssql.client.esproj",
+      "Identity": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\grid_mssql.client\\grid_mssql.client.esproj",
       "Version": 2,
       "Source": "grid_mssql.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

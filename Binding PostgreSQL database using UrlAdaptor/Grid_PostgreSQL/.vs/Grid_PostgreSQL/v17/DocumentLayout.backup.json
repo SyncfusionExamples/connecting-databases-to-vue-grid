@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding PostgreSQL database using UrlAdaptor\\Grid_PostgreSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51BF3FDA-C98C-5773-D8C2-C18F9FF488B7}|grid_postgresql.client\\grid_postgresql.client.esproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding postgresql database using urladaptor\\grid_postgresql\\grid_postgresql.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51BF3FDA-C98C-5773-D8C2-C18F9FF488B7}|grid_postgresql.client\\grid_postgresql.client.esproj|solutionrelative:grid_postgresql.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEBCF25-7AE2-4602-A08E-9376C9D8E18A}|Grid_PostgreSQL.Server\\Grid_PostgreSQL.Server.csproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding postgresql database using urladaptor\\grid_postgresql\\grid_postgresql.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEBCF25-7AE2-4602-A08E-9376C9D8E18A}|Grid_PostgreSQL.Server\\Grid_PostgreSQL.Server.csproj|solutionrelative:grid_postgresql.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEBCF25-7AE2-4602-A08E-9376C9D8E18A}|Grid_PostgreSQL.Server\\Grid_PostgreSQL.Server.csproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding postgresql database using urladaptor\\grid_postgresql\\grid_postgresql.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEBCF25-7AE2-4602-A08E-9376C9D8E18A}|Grid_PostgreSQL.Server\\Grid_PostgreSQL.Server.csproj|solutionrelative:grid_postgresql.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding PostgreSQL database using UrlAdaptor\\Grid_PostgreSQL\\Grid_PostgreSQL.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Grid_PostgreSQL.Server\\Program.cs",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding PostgreSQL database using UrlAdaptor\\Grid_PostgreSQL\\Grid_PostgreSQL.Server\\Program.cs",
+              "RelativeToolTip": "Grid_PostgreSQL.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:44:25.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.vue",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding PostgreSQL database using UrlAdaptor\\Grid_PostgreSQL\\grid_postgresql.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "grid_postgresql.client\\src\\App.vue",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding PostgreSQL database using UrlAdaptor\\Grid_PostgreSQL\\grid_postgresql.client\\src\\App.vue",
+              "RelativeToolTip": "grid_postgresql.client\\src\\App.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-03-21T10:41:37.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding PostgreSQL database using UrlAdaptor\\Grid_PostgreSQL\\Grid_PostgreSQL.Server\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "Grid_PostgreSQL.Server\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding PostgreSQL database using UrlAdaptor\\Grid_PostgreSQL\\Grid_PostgreSQL.Server\\Controllers\\GridController.cs",
+              "RelativeToolTip": "Grid_PostgreSQL.Server\\Controllers\\GridController.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAhwPsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:37:18.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

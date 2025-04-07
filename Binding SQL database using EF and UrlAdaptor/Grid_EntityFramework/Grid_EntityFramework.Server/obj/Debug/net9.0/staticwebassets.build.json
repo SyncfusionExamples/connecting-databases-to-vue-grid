@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "JyXN2QvHaR84MUgTfGrHv2+LSmn6yoqgpvf/TZT5GEA=",
+  "Source": "Grid_EntityFramework.Server",
+  "BasePath": "_content/Grid_EntityFramework.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_EntityFramework\\grid_entityframework.client\\grid_entityframework.client.esproj",
+      "Version": 2,
+      "Source": "grid_entityframework.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MySQL database using UrlAdaptor\\MySQL_Grid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA1898-DF33-E4C6-1F0B-EB7B46DFD0F8}|mysql_grid.client\\mysql_grid.client.esproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding mysql database using urladaptor\\mysql_grid\\mysql_grid.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CAA1898-DF33-E4C6-1F0B-EB7B46DFD0F8}|mysql_grid.client\\mysql_grid.client.esproj|solutionrelative:mysql_grid.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339FA4C1-8743-4F2E-A417-BCC7B01BB344}|MySQL_Grid.Server\\MySQL_Grid.Server.csproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding mysql database using urladaptor\\mysql_grid\\mysql_grid.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339FA4C1-8743-4F2E-A417-BCC7B01BB344}|MySQL_Grid.Server\\MySQL_Grid.Server.csproj|solutionrelative:mysql_grid.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339FA4C1-8743-4F2E-A417-BCC7B01BB344}|MySQL_Grid.Server\\MySQL_Grid.Server.csproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding mysql database using urladaptor\\mysql_grid\\mysql_grid.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339FA4C1-8743-4F2E-A417-BCC7B01BB344}|MySQL_Grid.Server\\MySQL_Grid.Server.csproj|solutionrelative:mysql_grid.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MySQL database using UrlAdaptor\\MySQL_Grid\\MySQL_Grid.Server\\Program.cs",
+              "RelativeDocumentMoniker": "MySQL_Grid.Server\\Program.cs",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MySQL database using UrlAdaptor\\MySQL_Grid\\MySQL_Grid.Server\\Program.cs",
+              "RelativeToolTip": "MySQL_Grid.Server\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:22:43.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.vue",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MySQL database using UrlAdaptor\\MySQL_Grid\\mysql_grid.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "mysql_grid.client\\src\\App.vue",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MySQL database using UrlAdaptor\\MySQL_Grid\\mysql_grid.client\\src\\App.vue",
+              "RelativeToolTip": "mysql_grid.client\\src\\App.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-03-24T11:19:41.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MySQL database using UrlAdaptor\\MySQL_Grid\\MySQL_Grid.Server\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "MySQL_Grid.Server\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MySQL database using UrlAdaptor\\MySQL_Grid\\MySQL_Grid.Server\\Controllers\\GridController.cs",
+              "RelativeToolTip": "MySQL_Grid.Server\\Controllers\\GridController.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAuwD0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:14:40.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

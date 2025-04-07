@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:64386",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding PostgreSQL database using CustomAdaptor\\CustomAdaptor_PostgreSQL\\CustomAdaptor_PostgreSQL.Server\\..\\customadaptor_postgresql.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "customadaptor_postgresql.client", "customadaptor_postgresql.client\customadaptor_postgresql.client.esproj", "{B341557E-CE0B-377F-9023-5B80C82A7AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAdaptor_PostgreSQL.Server", "CustomAdaptor_PostgreSQL.Server\CustomAdaptor_PostgreSQL.Server.csproj", "{51456423-1A20-4A48-B20B-B5C40B0EC780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B341557E-CE0B-377F-9023-5B80C82A7AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B341557E-CE0B-377F-9023-5B80C82A7AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B341557E-CE0B-377F-9023-5B80C82A7AFE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B341557E-CE0B-377F-9023-5B80C82A7AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B341557E-CE0B-377F-9023-5B80C82A7AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B341557E-CE0B-377F-9023-5B80C82A7AFE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{51456423-1A20-4A48-B20B-B5C40B0EC780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51456423-1A20-4A48-B20B-B5C40B0EC780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51456423-1A20-4A48-B20B-B5C40B0EC780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51456423-1A20-4A48-B20B-B5C40B0EC780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67170E5F-2F9D-437F-9E92-A680B24D520B}
+	EndGlobalSection
+EndGlobal

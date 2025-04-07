@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:51342",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\Grid_MSSQL.Server\\..\\grid_mssql.client",
+"WorkingDirectory": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL.Server\\..\\grid_mssql.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

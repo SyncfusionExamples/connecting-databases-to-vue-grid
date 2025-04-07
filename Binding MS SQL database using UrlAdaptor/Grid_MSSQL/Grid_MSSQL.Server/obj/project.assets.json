@@ -9182,11 +9182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\Grid_MSSQL.Server\\Grid_MSSQL.Server.csproj",
+      "projectUniqueName": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL.Server\\Grid_MSSQL.Server.csproj",
       "projectName": "Grid_MSSQL.Server",
-      "projectPath": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\Grid_MSSQL.Server\\Grid_MSSQL.Server.csproj",
+      "projectPath": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL.Server\\Grid_MSSQL.Server.csproj",
       "packagesPath": "C:\\Users\\VinithaBalasubramani\\.nuget\\packages\\",
-      "outputPath": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\Grid_MSSQL.Server\\obj\\",
+      "outputPath": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

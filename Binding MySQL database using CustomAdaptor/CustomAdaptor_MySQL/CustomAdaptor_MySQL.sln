@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "customadaptor_mysql.client", "customadaptor_mysql.client\customadaptor_mysql.client.esproj", "{141DBEF6-F158-F0B1-8552-31A5B72E192A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAdaptor_MySQL.Server", "CustomAdaptor_MySQL.Server\CustomAdaptor_MySQL.Server.csproj", "{C871D508-CB35-48FB-B193-E2977721DC52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141DBEF6-F158-F0B1-8552-31A5B72E192A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141DBEF6-F158-F0B1-8552-31A5B72E192A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141DBEF6-F158-F0B1-8552-31A5B72E192A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{141DBEF6-F158-F0B1-8552-31A5B72E192A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141DBEF6-F158-F0B1-8552-31A5B72E192A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141DBEF6-F158-F0B1-8552-31A5B72E192A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C871D508-CB35-48FB-B193-E2977721DC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C871D508-CB35-48FB-B193-E2977721DC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C871D508-CB35-48FB-B193-E2977721DC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C871D508-CB35-48FB-B193-E2977721DC52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C4AA39-272A-4F91-9A7B-06C3FC716D63}
+	EndGlobalSection
+EndGlobal

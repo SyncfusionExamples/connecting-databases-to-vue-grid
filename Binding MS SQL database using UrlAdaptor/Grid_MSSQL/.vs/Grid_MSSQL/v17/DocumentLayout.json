@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\",
+  "WorkspaceRootPath": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18682886-ACB0-47C2-313A-1C36E6891CAA}|grid_mssql.client\\grid_mssql.client.esproj|d:\\component\\ej2\\samples\\vue\\database_samples\\grid_mssql\\grid_mssql.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18682886-ACB0-47C2-313A-1C36E6891CAA}|grid_mssql.client\\grid_mssql.client.esproj|solutionrelative:grid_mssql.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C66ABA1-728B-406B-9E16-3A82EB4EDA88}|Grid_MSSQL.Server\\Grid_MSSQL.Server.csproj|d:\\component\\ej2\\samples\\vue\\database_samples\\grid_mssql\\grid_mssql.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C66ABA1-728B-406B-9E16-3A82EB4EDA88}|Grid_MSSQL.Server\\Grid_MSSQL.Server.csproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding ms sql database using urladaptor\\grid_mssql\\grid_mssql.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C66ABA1-728B-406B-9E16-3A82EB4EDA88}|Grid_MSSQL.Server\\Grid_MSSQL.Server.csproj|solutionrelative:grid_mssql.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C66ABA1-728B-406B-9E16-3A82EB4EDA88}|Grid_MSSQL.Server\\Grid_MSSQL.Server.csproj|d:\\component\\ej2\\samples\\vue\\database_samples\\grid_mssql\\grid_mssql.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18682886-ACB0-47C2-313A-1C36E6891CAA}|grid_mssql.client\\grid_mssql.client.esproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding ms sql database using urladaptor\\grid_mssql\\grid_mssql.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18682886-ACB0-47C2-313A-1C36E6891CAA}|grid_mssql.client\\grid_mssql.client.esproj|solutionrelative:grid_mssql.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C66ABA1-728B-406B-9E16-3A82EB4EDA88}|Grid_MSSQL.Server\\Grid_MSSQL.Server.csproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding ms sql database using urladaptor\\grid_mssql\\grid_mssql.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C66ABA1-728B-406B-9E16-3A82EB4EDA88}|Grid_MSSQL.Server\\Grid_MSSQL.Server.csproj|solutionrelative:grid_mssql.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,43 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\Grid_MSSQL.Server\\Program.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL.Server\\Program.cs",
               "RelativeDocumentMoniker": "Grid_MSSQL.Server\\Program.cs",
-              "ToolTip": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\Grid_MSSQL.Server\\Program.cs",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL.Server\\Program.cs",
               "RelativeToolTip": "Grid_MSSQL.Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T11:31:59.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T11:31:59.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "App.vue",
-              "DocumentMoniker": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\grid_mssql.client\\src\\App.vue",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\grid_mssql.client\\src\\App.vue",
               "RelativeDocumentMoniker": "grid_mssql.client\\src\\App.vue",
-              "ToolTip": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\grid_mssql.client\\src\\App.vue",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\grid_mssql.client\\src\\App.vue",
               "RelativeToolTip": "grid_mssql.client\\src\\App.vue",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2025-03-10T11:04:53.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GridController.cs",
-              "DocumentMoniker": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\Grid_MSSQL.Server\\Controllers\\GridController.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL.Server\\Controllers\\GridController.cs",
               "RelativeDocumentMoniker": "Grid_MSSQL.Server\\Controllers\\GridController.cs",
-              "ToolTip": "D:\\Component\\EJ2\\Samples\\Vue\\DataBase_Samples\\Grid_MSSQL\\Grid_MSSQL.Server\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding MS SQL database using UrlAdaptor\\Grid_MSSQL\\Grid_MSSQL.Server\\Controllers\\GridController.cs",
               "RelativeToolTip": "Grid_MSSQL.Server\\Controllers\\GridController.cs",
-              "ViewState": "AgIAAO8AAAAAAAAAAAAswAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T06:17:21.693Z",
               "EditorCaption": ""

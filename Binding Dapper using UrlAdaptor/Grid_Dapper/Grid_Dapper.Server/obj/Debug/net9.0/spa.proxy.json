@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:54742",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding Dapper using UrlAdaptor\\Grid_Dapper\\Grid_Dapper.Server\\..\\grid_dapper.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,1 @@
+D:\Component\EJ2\Samples\Vue\DataBase_Samples\CustomAdaptor_MySQL\customadaptor_mysql.client\obj\Debug\customadaptor_mysql.client.esproj.CoreCompileInputs.cache

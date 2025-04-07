@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{295E199E-7E89-4BB8-B142-BB537CD38458}|CustomAdaptor_EntityFramework.Server\\CustomAdaptor_EntityFramework.Server.csproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding sql database using ef and customadaptor\\customadaptor_entityframework\\customadaptor_entityframework.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295E199E-7E89-4BB8-B142-BB537CD38458}|CustomAdaptor_EntityFramework.Server\\CustomAdaptor_EntityFramework.Server.csproj|solutionrelative:customadaptor_entityframework.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F2002-B4BE-6675-E4CF-D4240E2D4098}|customadaptor_entityframework.client\\customadaptor_entityframework.client.esproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding sql database using ef and customadaptor\\customadaptor_entityframework\\customadaptor_entityframework.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2F2002-B4BE-6675-E4CF-D4240E2D4098}|customadaptor_entityframework.client\\customadaptor_entityframework.client.esproj|solutionrelative:customadaptor_entityframework.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F2002-B4BE-6675-E4CF-D4240E2D4098}|customadaptor_entityframework.client\\customadaptor_entityframework.client.esproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding sql database using ef and customadaptor\\customadaptor_entityframework\\customadaptor_entityframework.client\\src\\customadaptor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D2F2002-B4BE-6675-E4CF-D4240E2D4098}|customadaptor_entityframework.client\\customadaptor_entityframework.client.esproj|solutionrelative:customadaptor_entityframework.client\\src\\customadaptor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295E199E-7E89-4BB8-B142-BB537CD38458}|CustomAdaptor_EntityFramework.Server\\CustomAdaptor_EntityFramework.Server.csproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding sql database using ef and customadaptor\\customadaptor_entityframework\\customadaptor_entityframework.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{295E199E-7E89-4BB8-B142-BB537CD38458}|CustomAdaptor_EntityFramework.Server\\CustomAdaptor_EntityFramework.Server.csproj|solutionrelative:customadaptor_entityframework.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295E199E-7E89-4BB8-B142-BB537CD38458}|CustomAdaptor_EntityFramework.Server\\CustomAdaptor_EntityFramework.Server.csproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding sql database using ef and customadaptor\\customadaptor_entityframework\\customadaptor_entityframework.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295E199E-7E89-4BB8-B142-BB537CD38458}|CustomAdaptor_EntityFramework.Server\\CustomAdaptor_EntityFramework.Server.csproj|solutionrelative:customadaptor_entityframework.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\CustomAdaptor_EntityFramework.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomAdaptor_EntityFramework.Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\CustomAdaptor_EntityFramework.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomAdaptor_EntityFramework.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T17:35:14.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\CustomAdaptor_EntityFramework.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CustomAdaptor_EntityFramework.Server\\Program.cs",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\CustomAdaptor_EntityFramework.Server\\Program.cs",
+              "RelativeToolTip": "CustomAdaptor_EntityFramework.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:27:34.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.vue",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\customadaptor_entityframework.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "customadaptor_entityframework.client\\src\\App.vue",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\customadaptor_entityframework.client\\src\\App.vue",
+              "RelativeToolTip": "customadaptor_entityframework.client\\src\\App.vue",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-03-24T08:26:50.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomAdaptor.js",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\customadaptor_entityframework.client\\src\\CustomAdaptor.js",
+              "RelativeDocumentMoniker": "customadaptor_entityframework.client\\src\\CustomAdaptor.js",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\customadaptor_entityframework.client\\src\\CustomAdaptor.js",
+              "RelativeToolTip": "customadaptor_entityframework.client\\src\\CustomAdaptor.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T08:25:57.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\CustomAdaptor_EntityFramework.Server\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "CustomAdaptor_EntityFramework.Server\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQL database using EF and CustomAdaptor\\CustomAdaptor_EntityFramework\\CustomAdaptor_EntityFramework.Server\\Controllers\\GridController.cs",
+              "RelativeToolTip": "CustomAdaptor_EntityFramework.Server\\Controllers\\GridController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:23:12.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

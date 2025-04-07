@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding Dapper using CustomAdaptor\\CustomAdaptor_Dapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DFA959-E5B0-B9EE-E6A3-723BA11CE311}|customadaptor_dapper.client\\customadaptor_dapper.client.esproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding dapper using customadaptor\\customadaptor_dapper\\customadaptor_dapper.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DFA959-E5B0-B9EE-E6A3-723BA11CE311}|customadaptor_dapper.client\\customadaptor_dapper.client.esproj|solutionrelative:customadaptor_dapper.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833778F5-EBA4-4413-8AAD-357653F3ED9F}|CustomAdaptor_Dapper.Server\\CustomAdaptor_Dapper.Server.csproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding dapper using customadaptor\\customadaptor_dapper\\customadaptor_dapper.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833778F5-EBA4-4413-8AAD-357653F3ED9F}|CustomAdaptor_Dapper.Server\\CustomAdaptor_Dapper.Server.csproj|solutionrelative:customadaptor_dapper.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DFA959-E5B0-B9EE-E6A3-723BA11CE311}|customadaptor_dapper.client\\customadaptor_dapper.client.esproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding dapper using customadaptor\\customadaptor_dapper\\customadaptor_dapper.client\\src\\customadaptor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8DFA959-E5B0-B9EE-E6A3-723BA11CE311}|customadaptor_dapper.client\\customadaptor_dapper.client.esproj|solutionrelative:customadaptor_dapper.client\\src\\customadaptor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DFA959-E5B0-B9EE-E6A3-723BA11CE311}|customadaptor_dapper.client\\customadaptor_dapper.client.esproj|d:\\component\\ej2\\github-repo\\connecting-databases-to-vue-grid\\binding dapper using customadaptor\\customadaptor_dapper\\customadaptor_dapper.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8DFA959-E5B0-B9EE-E6A3-723BA11CE311}|customadaptor_dapper.client\\customadaptor_dapper.client.esproj|solutionrelative:customadaptor_dapper.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding Dapper using CustomAdaptor\\CustomAdaptor_Dapper\\customadaptor_dapper.client\\package.json",
+              "RelativeDocumentMoniker": "customadaptor_dapper.client\\package.json",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding Dapper using CustomAdaptor\\CustomAdaptor_Dapper\\customadaptor_dapper.client\\package.json",
+              "RelativeToolTip": "customadaptor_dapper.client\\package.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T10:06:12.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding Dapper using CustomAdaptor\\CustomAdaptor_Dapper\\CustomAdaptor_Dapper.Server\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "CustomAdaptor_Dapper.Server\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding Dapper using CustomAdaptor\\CustomAdaptor_Dapper\\CustomAdaptor_Dapper.Server\\Controllers\\GridController.cs",
+              "RelativeToolTip": "CustomAdaptor_Dapper.Server\\Controllers\\GridController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:55:01.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.vue",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding Dapper using CustomAdaptor\\CustomAdaptor_Dapper\\customadaptor_dapper.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "customadaptor_dapper.client\\src\\App.vue",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding Dapper using CustomAdaptor\\CustomAdaptor_Dapper\\customadaptor_dapper.client\\src\\App.vue",
+              "RelativeToolTip": "customadaptor_dapper.client\\src\\App.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-03-19T09:54:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomAdaptor.js",
+              "DocumentMoniker": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding Dapper using CustomAdaptor\\CustomAdaptor_Dapper\\customadaptor_dapper.client\\src\\CustomAdaptor.js",
+              "RelativeDocumentMoniker": "customadaptor_dapper.client\\src\\CustomAdaptor.js",
+              "ToolTip": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding Dapper using CustomAdaptor\\CustomAdaptor_Dapper\\customadaptor_dapper.client\\src\\CustomAdaptor.js",
+              "RelativeToolTip": "customadaptor_dapper.client\\src\\CustomAdaptor.js",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-19T09:53:55.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

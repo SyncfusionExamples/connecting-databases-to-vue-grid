@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:57367",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Component\\EJ2\\GitHub-Repo\\connecting-databases-to-vue-grid\\Binding SQLite using CustomAdaptor\\CustomAdaptor_SQLite\\CustomAdaptor_SQLite.Server\\..\\customadaptor_sqlite.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
