@@ -12,7 +12,7 @@ The [UrlAdaptor](https://ej2.syncfusion.com/vue/documentation/grid/connecting-to
 
 The `CustomAdaptor` serves as a mediator between the UI component and the database for data binding. While the data source from the database can be directly bound to the Syncfusion Vue Grid locally using the `dataSource` property, the `CustomAdaptor` approach is preferred as it allows for customization of both data operations and CRUD operations according to specific requirements. In this approach, for every action in the Grid, a corresponding request with action details is sent to the `CustomAdaptor`. The Grid provides predefined methods to perform data operations such as **searching**, **filtering**, **sorting**, **aggregation**, **paging** and **grouping**. Alternatively, your own custom methods can be employed to execute operations and return the data in the `result` and `count` format for displaying in the Grid. Additionally, for CRUD operations, predefined methods can be overridden to provide custom functionality. Further details on this can be found in the latter part of the documentation.
 
-Here, we have explained in detail how to bind the listed databases below to the Syncfusion Vue Grid component using CustomAdaptor and UrlAdaptor.
+Here, we have explained in detail how to bind the listed databases below to the Syncfusion Vue Grid using CustomAdaptor and UrlAdaptor.
 
 1. Microsoft SQL Server Database
 2. MYSQL Database
